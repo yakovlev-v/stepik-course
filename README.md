@@ -1,4 +1,4 @@
 # stepik-course
-Test automation with Selenium and Python
+###Test automation with Selenium and Python
 
-Это README файл и задание урока 3.1
+*В этом курсе я буду изучать как автоматизировать тестирование с помощью Python*
